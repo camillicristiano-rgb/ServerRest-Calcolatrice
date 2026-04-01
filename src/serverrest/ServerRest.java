@@ -77,8 +77,8 @@ public class ServerRest {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         
         Map info = new HashMap<>();
-        info.put("messaggio", "Benvenuto alla Calcolatrice REST API");
-        info.put("versione", "2.0.0");
+        info.put("messaggio", "Benvenuto nella gestione delle Arnie REST API");
+        info.put("versione", "1.0.0");
         info.put("tecnologia", "Java + GSON");
         
         Map endpoints = new HashMap<>();
