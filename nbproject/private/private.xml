@@ -6,10 +6,8 @@
             <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/App.java</file>
             <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/CalcolatriceService.java</file>
             <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/ServerRest.java</file>
-            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/PostHandler.java</file>
-            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/OperazioneResponse.java</file>
-            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/OperazioneRequest.java</file>
-            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/GetHandler.java</file>
+            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/ApiarioHandler.java</file>
+            <file>file:/C:/Users/camilli.cristiano/Documents/GitHub/ServerRest-Calcolatrice/src/serverrest/MockDataService.java</file>
         </group>
     </open-files>
 </project-private>
