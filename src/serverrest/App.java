@@ -6,9 +6,9 @@
 package serverrest;
 
 /**
- * Entry point dell'applicazione Apicoltura REST
+ * Entry point dell'applicazione Calcolatrice REST
  * 
- * @author camilli.cristiano
+ * @author delfo
  */
 public class App {
 

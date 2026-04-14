@@ -6,7 +6,7 @@ package serverrest;
 
 /**
  *
- * @author camilli.cristiano
+ * @author delfo
  */
 public class CalcolatriceService {
     
