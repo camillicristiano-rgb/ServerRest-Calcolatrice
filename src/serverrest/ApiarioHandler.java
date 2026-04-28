@@ -31,12 +31,17 @@ public class ApiarioHandler implements HttpHandler {
             if (method.equalsIgnoreCase("GET")) {
                 // Logica GET
                 switch (path) {
-                    case "/api/users": case "/api/utenti":
+                    case "/api/users":
+                    case "/api/utenti":
                         risposta = MockDataService.getUtenti();
                         break;
                     case "/api/arnie":
                         risposta = MockDataService.getArnie();
                         break;
+                    case "/api/apiari":
+                        risposta = MockDataService.getApiari();
+                        break;
+                    // Aggiungi qui gli altri: /api/sensori, /api/rilevazioni ecc.
                     default:
                         inviaErrore(exchange, 404, "Risorsa non trovata");
                         return;
